@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student in Computer Science at Harvard University, co-advised by Jim Waldo and Amy Mueller.
+I am a final year PhD student in Computer Science at Harvard University, co-advised by [Jim Waldo] (http://www.eecs.harvard.edu/~waldo/) and [Amy Mueller] (https://coe.northeastern.edu/people/mueller-amy/). I was formerly an intern and part-time researcher with the Urban Innovation Initiative at Microsoft Research, where I helped deploy and maintain the Eclipse network.
 
 ## Research Interests
 
@@ -13,10 +13,10 @@ I am a PhD student in Computer Science at Harvard University, co-advised by Jim 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2023]** I am presenting a poster at ACM COMPASS '23 in Cape Town!
+- **[Aug. 2023]** Our paper about characterizing structural fires with a low-cost PM2.5 sensor network was accepted to *Scientific Reports*.
+- **[Jun. 2023]** Our workshop about Environmental Data Stewardship was accepted for CSCW 2023.
+- **[May. 2023]** We presented our paper about city, community, and research partnerships for urban environmental sensing at ACM CHI 2023 in Hamburg.
 
 {% include_relative _includes/publications.md %}
 
