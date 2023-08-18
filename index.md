@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a PhD student in Computer Science at Harvard University, co-advised by Jim Waldo and Amy Mueller.
 
 ## Research Interests
 
