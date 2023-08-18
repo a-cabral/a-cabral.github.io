@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final year PhD student in Computer Science at Harvard University, co-advised by [Jim Waldo] (http://www.eecs.harvard.edu/~waldo/) and [Amy Mueller] (https://coe.northeastern.edu/people/mueller-amy/). I was formerly an intern and part-time researcher with the [Urban Innovation](https://www.microsoft.com/en-us/research/group/urban-innovation/) group at Microsoft Research, where I helped deploy and maintain the [Eclipse](https://www.microsoft.com/en-us/research/project/project-eclipse/) network. My research is focused on designing reliable, scalable, and equitable sensor networks for urban environmental sensing.
+I am a final year PhD student in Computer Science at Harvard University, co-advised by [Jim Waldo](http://www.eecs.harvard.edu/~waldo/) and [Amy Mueller](https://coe.northeastern.edu/people/mueller-amy/). I was formerly an intern and part-time researcher with the [Urban Innovation](https://www.microsoft.com/en-us/research/group/urban-innovation/) group at Microsoft Research, where I helped deploy and maintain the [Eclipse](https://www.microsoft.com/en-us/research/project/project-eclipse/) network. My research is focused on designing reliable, scalable, and equitable sensor networks for urban environmental sensing.
 
 ## Research Interests
 
