@@ -15,7 +15,7 @@ I am on the job market, looking for a position beginning in Summer-Fall 2024!
   
 ## News
 
-- **[Aug. 2023]** I am presenting a poster at ACM COMPASS '23 in Cape Town!
+- **[Aug. 2023]** I am presenting a poster at ACM COMPASS '23 in Cape Town.
 - **[Aug. 2023]** Our paper about characterizing structural fires with a low-cost PM2.5 sensor network was accepted to *Scientific Reports*.
 - **[Jun. 2023]** Our workshop about Environmental Data Stewardship was accepted for CSCW 2023.
 - **[May. 2023]** We presented our paper about city, community, and research partnerships for urban environmental sensing at ACM CHI 2023 in Hamburg.
