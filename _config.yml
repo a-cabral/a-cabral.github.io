@@ -20,7 +20,7 @@ linkedin: https://www.linkedin.com/in/alex-cabral-4282aa1a
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/headshot.png
+avatar: ./assets/img/headshot.jpg
 favicon: ./assets/img/favicon-32x32.png
 favicon_dark: ./assets/img/favicon-32x32.png
 
