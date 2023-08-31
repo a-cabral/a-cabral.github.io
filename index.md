@@ -10,7 +10,7 @@ I am on the job market, looking for a position beginning in Summer-Fall 2024!
 
 ## Research Interests
 
-- **Sensor Networks:** network design, energy harvesting, spatiotemporal data visualization
+- **Low-Cost Sensor Networks:** network design, energy harvesting, spatiotemporal data processing and visualization
 - **Smart Cities:** urban informatics, city and community engagement, urban digital twins
   
 ## News
