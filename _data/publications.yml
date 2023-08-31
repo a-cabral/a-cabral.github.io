@@ -6,7 +6,7 @@ main:
     conference: Scientific Reports, 13:12862, 2023.
     pdf: https://www.nature.com/articles/s41598-023-38392-3.pdf
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/semicircle_id.png
 
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
