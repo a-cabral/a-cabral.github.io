@@ -6,7 +6,7 @@ layout: homepage
 
 I am a final year PhD student in Computer Science at Harvard University, co-advised by [Jim Waldo](http://www.eecs.harvard.edu/~waldo/) and [Amy Mueller](https://coe.northeastern.edu/people/mueller-amy/). From 2020 to 2022, I was a member of the [Urban Innovation](https://www.microsoft.com/en-us/research/group/urban-innovation/) group at Microsoft Research, where I helped deploy and maintain the [Eclipse](https://www.microsoft.com/en-us/research/project/project-eclipse/) air quality sensing network. My research is focused on designing reliable, scalable, and equitable sensor networks for urban environmental sensing.
 
-I am on the job market, looking for a position beginning in Summer-Fall 2024!
+**I am on the job market, looking for a position beginning in Summer-Fall 2024!**
 
 ## Research Interests
 
