@@ -34,7 +34,7 @@ main:
     conference_short: Sensors
     conference: IEEE Sensors, 2021.
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/TempPlots1Cropped.png
+    image: ./assets/img/SensorInside.jpg
     pdf: https://ieeexplore.ieee.org/abstract/document/9639703
 
 
