@@ -8,15 +8,15 @@ main:
     image: ./assets/img/semicircle_id.png
     pdf: https://www.nature.com/articles/s41598-023-38392-3.pdf
 
-  - title: The "Three-Legged Stool": Designing for Equitable City, Community, and Research Partnerships in Urban Environmental Sensing
+  - title: The Three-Legged Stool: Designing for Equitable City, Community, and Research Partnerships in Urban Environmental Sensing
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: CHI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    #notes: Early Accept
+    notes: Early Accept
 
 
 
