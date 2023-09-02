@@ -29,6 +29,14 @@ main:
     #notes: Oral Presentation
     image: ./assets/img/teaser_example.png
 
+  - title: Design and Implementation of A Mobile Urban Low-Cost Environmental Sensor Network
+    authors: <strong>Alex Cabral</strong>, Asta Roseway, and Paul Johns
+    conference_short: Sensors
+    conference: IEEE Sensors, 2021.
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/semicircle_id.png
+    pdf: https://ieeexplore.ieee.org/abstract/document/9639703
+
 
 
 
