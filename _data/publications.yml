@@ -1,7 +1,7 @@
 main:
 
   - title: Characterizing the effects of structural fires on fine particulate matter with a dense sensing network
-    authors: Ayina Anyachebelu, <strong>Alex Cabral</strong>, Marah I. Abdin, Pallavi Choudhury, & Madeleine I. G. Daepp
+    authors: Ayina Anyachebelu, <strong>Alex Cabral</strong>, Marah I. Abdin, Pallavi Choudhury, Madeleine I. G. Daepp
     #conference_short: MICCAI
     conference: Scientific Reports, 13:12862, 2023.
     #bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -30,7 +30,7 @@ main:
     image: ./assets/img/urbanair_experience3.jpg
 
   - title: Design and Implementation of A Mobile Urban Low-Cost Environmental Sensor Network
-    authors: <strong>Alex Cabral</strong>, Asta Roseway, and Paul Johns
+    authors: <strong>Alex Cabral</strong>, Asta Roseway, Paul Johns
     conference_short: Sensors
     conference: IEEE Sensors, 2021.
     #bibtex: https://bib.yliu.me/MICCAI23.txt
