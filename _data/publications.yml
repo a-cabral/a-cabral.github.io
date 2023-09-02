@@ -27,7 +27,7 @@ main:
     page: https://www.microsoft.com/en-us/research/project/project-eclipse/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
-    image: ./assets/img/urbanair_experience3.png
+    image: ./assets/img/urbanair_experience3.jpg
 
   - title: Design and Implementation of A Mobile Urban Low-Cost Environmental Sensor Network
     authors: <strong>Alex Cabral</strong>, Asta Roseway, and Paul Johns
