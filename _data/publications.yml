@@ -19,7 +19,7 @@ main:
     #notes: Early Accept
 
   - title: "Eclipse: An End-to-End Platform for Low-Cost, Hyperlocal Environmental Sensing in Cities"
-    authors: Madeleine I.G. Daepp, <strong>Alex Cabral</strong>, Vaishnavi Ranganathan, Vikram Iyer, Scott Counts, Paul Johns, Asta Roseway, Charlie Catlett, Gavin Jancke, et al. #Darren Gehring, Chuck Needham, Curtis Von Veh, Tracy Tran, Lex Story, Gabriele DAmone, Bichlien H Nguyen
+    authors: Madeleine I.G. Daepp, <strong>Alex Cabral</strong>, Vaishnavi Ranganathan, Vikram Iyer, Scott Counts, et al. #Paul Johns, Asta Roseway, Charlie Catlett, Gavin Jancke, Darren Gehring, Chuck Needham, Curtis Von Veh, Tracy Tran, Lex Story, Gabriele DAmone, Bichlien H Nguyen
     conference_short: IPSN
     conference: ACM/IEEE International Conference on Information Processing in Sensor Networks, 2022.
     pdf: https://ieeexplore.ieee.org/document/9826074
