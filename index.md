@@ -15,10 +15,11 @@ I am a final year PhD student in Computer Science at Harvard University, co-advi
   
 ## News
 
+- **[Sept. 2023]** I was named a Class of 2024 [Siebel Scholar](https://www.siebelscholars.com/articles/siebel-scholars-foundation-announces-class-of-2024/).
 - **[Aug. 2023]** I am presenting a poster at ACM COMPASS '23 in Cape Town.
 - **[Aug. 2023]** Our paper about characterizing structural fires with a low-cost PM2.5 sensor network was accepted to *Scientific Reports*.
 - **[Jun. 2023]** Our workshop about Environmental Data Stewardship was accepted for CSCW 2023.
-- **[May. 2023]** We presented our paper about city, community, and research partnerships for urban environmental sensing at ACM CHI 2023 in Hamburg.
+
 
 {% include_relative _includes/publications.md %}
 
