@@ -15,7 +15,7 @@ I am a final year PhD student in Computer Science at Harvard University, co-advi
   
 ## News
 
-- **[Oct. 2023]** My submission was accepted for the ACM SenSys/BuildSys '23 Joint PhD Forum.
+- **[Jan. 2024]** My submission was accepted for the IEEE PerCom 2024 PhD Forum.
 - **[Sept. 2023]** I was named a Class of 2024 [Siebel Scholar](https://www.siebelscholars.com/articles/siebel-scholars-foundation-announces-class-of-2024/)!
 - **[Aug. 2023]** I am presenting a poster at ACM COMPASS '23 in Cape Town.
 - **[Aug. 2023]** Our paper about characterizing structural fires with a low-cost PM2.5 sensor network was accepted to *Scientific Reports*.
