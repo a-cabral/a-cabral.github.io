@@ -12,12 +12,12 @@ I am a final year PhD student in Computer Science at Harvard University, co-advi
 - **Low-Cost Sensor Networks:** network design, energy harvesting, spatiotemporal data processing and visualization
 - **Smart Cities:** urban informatics, city and community engagement, urban digital twins
   
-## News
+## Recent News
 
+- **[Apr. 2024]** I was selected as a 2024 CPS Rising Star! 
 - **[Mar. 2024]** I was awarded Runner Up for Best PhD Forum Presentation at IEEE PerCom 2024.
 - **[Sept. 2023]** I was named a Class of 2024 [Siebel Scholar](https://www.siebelscholars.com/articles/siebel-scholars-foundation-announces-class-of-2024/)!
 - **[Aug. 2023]** I am presenting a poster at ACM COMPASS '23 in Cape Town.
-- **[Aug. 2023]** Our paper about characterizing structural fires with a low-cost PM2.5 sensor network was accepted to *Scientific Reports*.
 
 
 {% include_relative _includes/publications.md %}
