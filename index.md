@@ -14,10 +14,11 @@ I am a final year PhD student in Computer Science at Harvard University, co-advi
   
 ## Recent News
 
+- **[Apr. 202r]** I successfully defended my dissertation at Harvard University!
 - **[Apr. 2024]** I was selected as a 2024 CPS Rising Star! 
 - **[Mar. 2024]** I was awarded Runner Up for Best PhD Forum Presentation at IEEE PerCom 2024.
 - **[Sept. 2023]** I was named a Class of 2024 [Siebel Scholar](https://www.siebelscholars.com/articles/siebel-scholars-foundation-announces-class-of-2024/)!
-- **[Aug. 2023]** I am presenting a poster at ACM COMPASS '23 in Cape Town.
+
 
 
 {% include_relative _includes/publications.md %}
