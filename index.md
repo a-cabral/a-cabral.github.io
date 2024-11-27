@@ -17,11 +17,12 @@ I earned a PhD in Computer Science from Harvard University, where I was co-advis
   
 ## Recent News
 
+- **[Oct. 2024]** I was invited to serve on the Program Committee for CSCW 2025.
 - **[Oct. 2024]** I will be attending EWSN 2024 to participate in the PhD/Postdoc School and present a poster.
 - **[Jun. 2024]** I have officially accepted an offer as a Postdoctoral Researcher with the Ka Moamoa group at Georgia Tech.
 - **[Apr. 2024]** I successfully defended my dissertation at Harvard University!
 - **[Apr. 2024]** I was selected as a 2024 CPS Rising Star! 
-- **[Mar. 2024]** I was awarded Runner Up for Best PhD Forum Presentation at IEEE PerCom 2024.
+
 
 
 
