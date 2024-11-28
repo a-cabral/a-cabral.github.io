@@ -17,7 +17,7 @@ I earned a PhD in Computer Science from Harvard University, where I was co-advis
   
 ## Recent News
 
-- **[Nov. 2024]** Our paper Makak: Co-designing Environmental Sensors to Protect Manoomin (Wild Rice) was accepted for CHI 2025! 
+- **[Nov. 2024]** Our paper "_Makak_: Co-designing Environmental Sensors to Protect Manoomin (Wild Rice)" was accepted for CHI 2025! 
 - **[Oct. 2024]** I was invited to serve on the Program Committee for CSCW 2025.
 - **[Oct. 2024]** I will be attending EWSN 2024 to participate in the PhD/Postdoc School and present a poster.
 - **[Jun. 2024]** I have officially accepted an offer as a Postdoctoral Researcher with the Ka Moamoa group at Georgia Tech.
