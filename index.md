@@ -11,7 +11,7 @@ I earned a PhD in Computer Science from Harvard University, where I was co-advis
 
 ## Research Interests
 
-- **Low-Cost Sensor Networks:** network design, energy harvesting, network deployment strategies
+- **Low-Cost Sensor Networks:** hardware co-design, energy harvesting, network deployment strategies
 - **Smart Cities:** urban informatics, city and community engagement, urban digital twins
 - **Environmental Informatics:**: spatiotemporal data visualization, data sovereignty
   
