@@ -17,11 +17,12 @@ I earned a PhD in Computer Science from Harvard University, where I was co-advis
   
 ## Recent News
 
-- **[Feb. 2025]** Julia McKenna and I were invited to present our work at TicTec 2025!
+- **[Feb. 2025]** Our paper was accepted at SenSys 2025.
+- **[Feb. 2025]** I was invited to serve on the Program Committee for SenSys 2025 Poster Submissions.
+- **[Feb. 2025]** Julia McKenna and I were invited to present our work at TicTec 2025.
 - **[Feb. 2025]** I was invited to serve on the Program Committee for ACM COMPASS 2025.
 - **[Dec. 2024]** My work with Jim Waldo and Amy Mueller won **Best Poster at EWSN 2024**!
-- **[Oct. 2024]** I was invited to serve on the Technical Program Committee for PerCom 2025.
-- **[Oct. 2024]** I was invited to serve as an Area Chair for CSCW 2025.
+
 
 
 
