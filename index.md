@@ -17,12 +17,11 @@ I earned a PhD in Computer Science from Harvard University, where I was co-advis
   
 ## Recent News
 
-- **[Mar. 2025]** I was invited to give a talk at Climate Solutions Summit NYC.
+- **[Mar. 2025]** I was named a 2025-2026 NSF [ICICLE Educational Fellow](https://icicle.osu.edu/education-and-outreach/icicle-educational-fellows-program).
+- **[Mar. 2025]** Two full papers accepted at ACM COMPASS 2025.
 - **[Mar. 2025]** Gave a presentation on Hyperlocal Environmental Sensing for Multimodal TinyML as an invited guest at the ICT TropMed Workshop in Bangkok.
 - **[Feb. 2025]** Our paper on PuffEm was accepted at IEEE/ACM CHASE 2025.
-- **[Feb. 2025]** Our paper on the Eclipse dataset was accepted at SenSys 2025.
-- **[Feb. 2025]** Julia McKenna and I were invited to present our work on city and county meeting agenda alerts at TicTec 2025.
-- **[Feb. 2025]** I was invited to serve on the Program Committee for ACM COMPASS 2025.
+
 
 
 
