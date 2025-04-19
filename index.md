@@ -13,7 +13,7 @@ I earned a PhD in Computer Science from Harvard University, where I was co-advis
 
 - **Low-Cost Sensor Networks:** hardware co-design, energy harvesting, network deployment strategies
 - **Smart Cities:** urban informatics, city and community engagement, urban digital twins
-- **Environmental Informatics:**: spatiotemporal data visualization, data sovereignty
+- **Environmental Informatics:** spatiotemporal data visualization, data sovereignty
   
 ## Recent News
 
