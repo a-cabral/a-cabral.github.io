@@ -17,10 +17,11 @@ I earned a PhD in Computer Science from Harvard University, where I was co-advis
   
 ## Recent News
 
+- **[Jun. 2025]** I have officially accepted an Assistant Professor position with the Department of Urban Studies and Planning and the Institute for Data, Systems, and Society at MIT!
 - **[May. 2025]** Our workshop for Designing Indigenous Technologies was accepted for inclusion at ACM COMPASS 2025.
 - **[Mar. 2025]** I was selected as a 2025-2026 NSF [ICICLE Educational Fellow](https://icicle.osu.edu/education-and-outreach/icicle-educational-fellows-program)!
 - **[Mar. 2025]** I had two full papers accepted at ACM COMPASS 2025!
-- **[Mar. 2025]** Gave a presentation on Hyperlocal Environmental Sensing for Multimodal TinyML as an invited guest at the ICT TropMed Workshop in Bangkok.
+
 
 
 
