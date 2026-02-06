@@ -19,10 +19,9 @@ I earned a PhD in Computer Science from Harvard University, where I was co-advis
   
 ## Recent News
 
+- **[Jan. 2026]** Our paper Noondawind: A Co-Designed Dashboard for Indigenous Data Access and Environmental Policy Implementation was accepted to CHI 2027.
 - **[Oct. 2025]** Our pictorial Designing Loofah Wearables For Embodied Ecological Reflection was accepted for TEI 2026.
 - **[Aug. 2025]** Our paper Sustaining Workers Who Sustain the World: Assets-Based Design for Conservation Technologies in Madagascar won Honorable Mention and a DEI Recognition at CSCW 2025!
-- **[Jun. 2025]** I have officially accepted an Assistant Professor position with the Department of Urban Studies and Planning and the Institute for Data, Systems, and Society at MIT!
-- **[May. 2025]** Our workshop for Designing Indigenous Technologies was accepted for inclusion at ACM COMPASS 2025.
 
 
 
