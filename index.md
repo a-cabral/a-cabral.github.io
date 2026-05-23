@@ -19,10 +19,12 @@ I earned a PhD in Computer Science from Harvard University, where I was co-advis
   
 ## Recent News
 
+- **[Apr. 2026]** I was named the Georgia Tech College of Computing Outstanding Postdoc of the Year!
+- **[Apr. 2026]** We had two papers accepted for ICT4S!
 - **[Mar. 2026]** Our paper Kumu Link: A Community-Engaged Approach to Developing Culturally Authentic AI Tools for Hawaiian K-12 CS Education was accepted to IDC 2026.
 - **[Jan. 2026]** Our paper Noondawind: A Co-Designed Dashboard for Indigenous Data Access and Environmental Policy Implementation was accepted to CHI 2026 and won an Honorable Mention award!
 - **[Oct. 2025]** Our pictorial Designing Loofah Wearables For Embodied Ecological Reflection was accepted for TEI 2026.
-- **[Aug. 2025]** Our paper Sustaining Workers Who Sustain the World: Assets-Based Design for Conservation Technologies in Madagascar won Honorable Mention and a DEI Recognition at CSCW 2025!
+
 
 
 
