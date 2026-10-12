@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Assistant Professor in the Department of Urban Studies and Planning and the Institute for Data, Systems, and Society at Massachusetts Institute of Technology. I direct the SEED Lab, which focuses on Sensing, Engagement, Education, and Data to support environmental health and social wellbeing.
+I am an Assistant Professor in the Department of Urban Studies and Planning and the Institute for Data, Systems, and Society at Massachusetts Institute of Technology. I direct the [SEED Lab](https://sites.mit.edu/seedlab/), which focuses on Sensing, Engagement, Education, and Data to support environmental health and social wellbeing.
 
 Previously, I was a Postdoctoral Fellow in the [Ka Moamoa Lab](https://kamoamoa.com) at Georgia Tech and a 2025-2026 NSF [ICICLE Educational Fellow](https://icicle.osu.edu/education-and-outreach/icicle-educational-fellows-program). My primary research project was focused on designing and deploying low-cost sensing devices to monitor environmental factors of _Manoomin_, wild rice that grows in the Great Lakes region and is essential to Indigenous North American culture, economy, and sustenance. This work is part of the multi-institute [Strong Manoomin Collective](https://www.manoom.in), which is funded by multiple NSF grants.
 
